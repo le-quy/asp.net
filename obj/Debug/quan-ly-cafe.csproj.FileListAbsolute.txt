@@ -1,0 +1,6 @@
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\bin\quan-ly-cafe.dll.config
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\bin\quan-ly-cafe.dll
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\bin\quan-ly-cafe.pdb
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\obj\Debug\quan-ly-cafe.csprojResolveAssemblyReference.cache
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\obj\Debug\quan-ly-cafe.dll
+F:\ASP.net\quan-ly-cafe\quan-ly-cafe\obj\Debug\quan-ly-cafe.pdb
